@@ -1,0 +1,2 @@
+This project implements an Object-Oriented Library Management System in Python.
+It models real-world library operations — such as maintaining books, DVDs, and magazines, managing users (students, faculty, librarians), and handling borrowing policies and transactions — while following the Google Python Style Guide and clean architecture principles.
