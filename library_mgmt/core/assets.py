@@ -70,6 +70,7 @@ class Policy:
 
     borrow_days: int
     late_fee_per_day: int
+    receipt: str
 
 
     
