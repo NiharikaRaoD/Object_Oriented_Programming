@@ -22,7 +22,7 @@ class LibraryAsset:
     isbn: str|None
     department: str
     publisher: str|None
-    type: str = 'Book'
+    type: str = 'Books'
 
 
 @dataclass
@@ -70,7 +70,6 @@ class Policy:
 
     borrow_days: int
     late_fee_per_day: int
-    
 
 
     
