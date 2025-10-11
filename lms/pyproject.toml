@@ -1,0 +1,30 @@
+[project]
+name = "lms"
+version = "1.0.0"
+description = "Library Management System"
+readme = "README.md"
+authors = [
+    { name = "NiharikaRaoD", email = "niharika.dharmana@outlook.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+lms = "lms:main"
+
+[build-system]
+requires = ["uv_build>=0.9.2,<0.10.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+]
+
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests"
+]

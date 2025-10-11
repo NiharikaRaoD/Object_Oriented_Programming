@@ -2,6 +2,7 @@
 
 from core.assets import LibraryAsset
 from core.users import Person
+from datetime import datetime
 
 
 class Transaction:
@@ -21,6 +22,10 @@ class Transaction:
         """
         self._person = person
         self._item = item
+        self._id:str = None
+        self._borrowdate:datetime = datetime.now()
+
+
 
     @property
     def person(self) -> Person:
