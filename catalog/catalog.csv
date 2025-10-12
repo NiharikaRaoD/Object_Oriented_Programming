@@ -1,0 +1,16 @@
+ItemID,ItemName,RestaurantName,Price,Description
+I001,Kung Pao Chicken,Golden Dragon,12.99,Spicy stir fried chicken with peanuts and chili
+I002,Beef Tacos,El Toro Loco,9.49,Soft tortillas filled with seasoned beef and salsa
+I003,Pad Thai,Spice Route,11.99,Classic rice noodle dish with tofu and peanuts
+I004,Greek Salad,The Greek Table,8.99,Fresh salad with feta olives and olive oil
+I005,Margherita Pizza,Bella Vita,13.49,Wood fired pizza with tomato sauce and mozzarella
+I006,Sweet and Sour Pork,Dragon Wok,10.99,Crispy pork in tangy sweet and sour sauce
+I007,Chicken Shawarma,La Casa De Tapas,12.49,Grilled chicken wrapped with garlic sauce
+I008,Chicken Quesadilla,Chili Lime,9.99,Grilled tortilla stuffed with cheese and chicken
+I009,Spaghetti Carbonara,Pasta Palace,12.99,Classic pasta with eggs cheese and bacon
+I010,Green Curry,Phuket Spice,11.49,Thai curry with coconut milk and vegetables
+I011,Spring Rolls,Shanghai Express,6.99,Crispy rolls filled with vegetables
+I012,Enchiladas,La Fiesta,10.99,Tortillas rolled with chicken and mild chili sauce
+I013,Hummus Plate,Olive Grove,7.99,Mashed chickpeas served with pita bread
+I014,Lasagna,Trattoria Roma,13.99,Layered pasta with meat sauce and cheese
+I015,Basil Fried Rice,Lotus Leaf,10.49,Thai style fried rice with basil and egg
